@@ -1,0 +1,14 @@
+Was ist meine Aufgabe:
+
+Erstelle ein Person Objekt mit Daten
+    {ID, FIRSTNAME, LASTNAME, INSURANCENUMBER}
+
+speicher die Person in eine ArrayList
+
+speicher die ArrayList als Datei
+
+Wenn du das Program schließt und wieder öffnest sollst du mit der Datei weiterarbeiten können und mehrere Personen hinzufügen
+
+==========
+
+über die ID personen raussuchen
